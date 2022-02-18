@@ -46,12 +46,6 @@ async def on_message(message):
         response2 = lol2
         await message.channel.send(response2)
 
-    bruh = 'Polio'
-
-    if 'canyon' in str(message.content):
-        response3 = random.choice(bruh)
-        await message.channel.sent(response3)
-
 
 
 client.run(TOKEN)
