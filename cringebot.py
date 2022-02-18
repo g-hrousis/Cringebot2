@@ -1,4 +1,4 @@
-# bot.py
+# cringebot.py
 import os
 import random
 import discord
